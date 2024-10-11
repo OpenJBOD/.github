@@ -12,6 +12,8 @@ These components all work together to allow the JBOD to host a number of disks w
 
 Have an idea for a project? Wanna talk about how to use these components or share new ideas? Check out our [discussions!](https://github.com/orgs/OpenJBOD/discussions)
 
+If you are an individual or a company looking for a large quantity of boards or a custom board project, please feel free to contact `oliver [at] omlogix [dot] com` with inquiries!
+
 ## OpenJBOD Projects
 
 OpenJBOD aims to make it easier to build JBODs out of commodity hardware by providing some of the more niche or rare to come by components.
